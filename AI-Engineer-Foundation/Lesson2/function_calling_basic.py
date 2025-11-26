@@ -4,7 +4,6 @@ function_calling_basic.py
 Demo Function Calling đơn giản cho Bài 2:
 - 2 tool: get_weather, get_stock_price
 - Agent tự chọn tool
-- Không dùng top_k hoặc kỹ thuật nâng cao
 """
 
 import os
